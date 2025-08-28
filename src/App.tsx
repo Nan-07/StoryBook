@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import InputField from "./components/InputField/InputField";
 import { DataTable } from "./components/DataTable/DataTable";
-import type { Column } from "./components/DataTable/types";
+import type { Column } from "./components/DataTable/types";//ghhhjjbubgui
 
 interface User {
   id: number;
